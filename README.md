@@ -9,8 +9,7 @@ This project is a quick example of how to use a queue to distribute work amongst
 > Majestic owns all rights to the data used in this example.  They provide this data for free, please be kind to their servers.
 
 ```
-curl -o million.csv 
-http://downloads.majestic.com/majestic_million.csv
+curl -o million.csv http://downloads.majestic.com/majestic_million.csv
 ```
 
 ## Docker Compose
